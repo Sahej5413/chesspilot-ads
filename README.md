@@ -1,0 +1,2 @@
+# chesspilot-ads
+ google ads
